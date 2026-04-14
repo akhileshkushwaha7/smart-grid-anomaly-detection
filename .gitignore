@@ -1,0 +1,14 @@
+nsf/
+venv/
+env/
+
+__pycache__/
+*.pyc
+
+node_modules/
+.next/
+
+*.h5
+*.pt
+*.pth
+*.pkl
