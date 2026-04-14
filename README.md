@@ -57,7 +57,7 @@ Raw Data → Normalize → Sequence → Train → Test → Error → Detect
 - Training Loss Graph
 - Reconstruction Error Plot
 - Detected Anomalies
-  Note: check the results/plots
+ -- Note: check the results/plots
 ---
 
 ## ⚙️ Installation
